@@ -37,6 +37,6 @@
     "**/*.cjs",
     "**/*.js",
     ".next/types/**/*.ts"
-  ],
+, "src/app/(auth)/auth/[pathname]/view"  ],
   "exclude": ["node_modules"]
 }
